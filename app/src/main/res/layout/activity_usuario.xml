@@ -22,15 +22,4 @@
         app:headerLayout="@layout/nav_header_usuario"
         app:menu="@menu/activity_usuario_drawer" />
 
-    <FrameLayout
-        android:id="@+id/content_frame"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <TextView
-            android:id="@+id/texto"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-    </FrameLayout>
-
 </android.support.v4.widget.DrawerLayout>
