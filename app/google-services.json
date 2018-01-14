@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "351377621392",
+    "firebase_url": "https://appfinal-efa71.firebaseio.com",
+    "project_id": "appfinal-efa71",
+    "storage_bucket": "appfinal-efa71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351377621392:android:d094a622a78cd918",
+        "android_client_info": {
+          "package_name": "calatayud.pablo.appfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351377621392-pdood70ir7d2ocvvn2bcmate13pnbtrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calatayud.pablo.appfinal",
+            "certificate_hash": "75f6900a8dda591b5cd6c2ba13a07bcac050c242"
+          }
+        },
+        {
+          "client_id": "351377621392-7rtsu7n9s7h6avmig3mg4aa0s08rkpur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALIt5SjnxnpZz6MLpCgCJJlWOP7Rbmfi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351377621392-7rtsu7n9s7h6avmig3mg4aa0s08rkpur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
